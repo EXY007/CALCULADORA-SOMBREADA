@@ -1,0 +1,52 @@
+
+body  {
+    background-color: aqua;
+  }
+
+
+  #titulo{
+   
+    background-color: aquamarine;
+  }
+
+  #panel{
+    
+    
+    margin: auto;
+
+    
+    height: 420px;
+    width: 300px;
+    background-color: black;
+    display: flex;
+    margin-top: 10%;
+    border-radius: 5%;
+    display:block;
+  }
+
+  .btnClass{
+    height: 30px, ;
+    width: 41px;
+    
+  }
+
+   #pantalla {
+    justify-content: center;
+    display: flex;
+    background-color: blue;
+
+  }
+
+  #botonera{
+    height: 90px;
+    background-color: brown;
+    text-align: center;
+    
+
+  }
+
+ 
+ 
+
+
+ 

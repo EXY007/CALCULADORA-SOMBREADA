@@ -1,0 +1,29 @@
+
+#padre{
+    display: flex;
+    background-color: bisque;
+    justify-content: center;
+    width: 500px;
+    margin: auto;
+    
+    
+}
+
+#izquierda{
+    margin-right: 20px ;
+    
+
+
+}
+
+#derecha{
+    margin-left: 20px;
+}
+
+h1{
+    
+}
+
+button{
+    
+}
